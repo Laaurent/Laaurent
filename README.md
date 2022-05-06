@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Laurent 🏄🏼‍♂️
 
-<!--
-**Laaurent/Laaurent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.imgur.com/TRaOAKv.png" width="1600" height="5" alt="pale green/blue gradient" />
 
-Here are some ideas to get you started:
+I am web developer from Paris, France. I've been creating web content with HTML, CSS since middle school, but it's only in the 2 past years that I've started seriously developing my skills and trying my hand at building complex, compelling projects with technologies like Laravel and VueJS.
+I'm passionate about tech and visual things like digital projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me online 🚀
+
+- Portfolio: WIP <img src="http://www.animationcontinent.com/wpimages/wp9deec72e.gif" height="20" />
+- Personal site: https://laaurent.fr
+- Email me: contact@laaurent.fr
+
+
+
