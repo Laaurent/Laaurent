@@ -8,7 +8,7 @@ I've been creating web content since middle school, but it's only in the 2 past 
 
 ## Find me online
 
-- Portfolio: laurentquenel.me
+- Portfolio: https://laurentquenel.me
 - Email me: contact@laaurent.fr
 
 
