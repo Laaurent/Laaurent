@@ -8,8 +8,7 @@ I've been creating web content since middle school, but it's only in the 2 past 
 
 ## Find me online
 
-- Portfolio: WIP <img src="http://www.animationcontinent.com/wpimages/wp9deec72e.gif" height="20" />
-- Personal site: https://laaurent.fr
+- Portfolio: laurentquenel.me
 - Email me: contact@laaurent.fr
 
 
