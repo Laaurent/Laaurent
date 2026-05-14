@@ -1,15 +1,33 @@
-# Hello, I'm Laurent ✱
+<p align="center">
+<blockquote>
+  <span style="font-size:2em; font-family:monospace;">
+    the interesting stuff isn't here.<br>
+    less posting. more shipping.
+  </span>
+</blockquote>
+</p>
 
-<img src="https://i.imgur.com/TRaOAKv.png" width="1600" height="5" alt="pale green/blue gradient" />
+&nbsp;&nbsp;&nbsp;
 
-### I USED TO CREATE EXPERIENCES THROUGH DEVELOPMENT & DESIGN.
+## ─────────── stack
 
-I've been creating web content since middle school, but it's only in the 2 past years that I've started seriously developing my skills and trying my hand at building complex, compelling projects.
+```
+typescript · angular · react/next · node · python
+claude code · mcp · agents · rag · prompt eng
+```
 
-## Find me online
+## ─────────── currently
 
-- Portfolio: https://laurentquenel.me
-- Email me: contact@laaurent.fr
+```
+[ day ]   healthcare IT @ evolucare — hopitalweb, ségur DPI
+[ night ] agents · automations · LLM tooling
+          + lecture papers, expérimentations
+```
 
+&nbsp;&nbsp;&nbsp;
 
+<p align="center">
+  <img width="100%" alt="metrics" src=".github/output/metrics.classic.svg" />
+</p>
 
+&nbsp;&nbsp;&nbsp;
