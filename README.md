@@ -1,10 +1,3 @@
-<!-- HERO -->
-<p align="center">
-  <img width="100%" alt="laaurent" src=".github/hero.png" />
-</p>
-
-&nbsp;
-
 <p align="center">
 <blockquote>
   <span style="font-size:2em; font-family:monospace;">
